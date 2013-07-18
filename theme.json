@@ -1,0 +1,8 @@
+{
+    "id": "geo-bootstrap",
+    "name": "Geo",
+    "description": "Geo for Bootstrap",
+    "src": "bootstrap.min.css",
+    "screenshot": "geo.png",
+    "url": "http://divshot.github.io/geo-bootstrap/"
+}
